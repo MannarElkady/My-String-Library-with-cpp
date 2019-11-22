@@ -1,14 +1,6 @@
 #include<stdio.h>
 #include<iostream.h>
 #include<conio.h>
-/*
-
-Student Name: Manar Abdelbaset Mohamed
-
-Track: Mobile Development (Native)
-
-
-*/
 
 class String{
 	private:
